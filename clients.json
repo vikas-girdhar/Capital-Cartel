@@ -1,0 +1,13 @@
+{
+  "9876543210": {
+    "name": "ABC",
+    "address": "Kanpur",
+    "phone": "9876543210",
+    "email": "test@mail.com",
+    "income_bracket": "<5 Lakh",
+    "age_bracket": "<25",
+    "user_id": "test@mail.com",
+    "password": "password123",
+    "registered": true
+  }
+}
